@@ -5,6 +5,21 @@
   text-align: center;
 }
 
+.featPupContainer {
+  background-color: rgb(214, 248, 248);
+  border-radius: 10px;
+  padding: 15px;
+  border: 2px solid gray;
+}
+
+li {
+  list-style: none;
+}
+
+ul {
+  text-align: left;
+}
+
 .logo {
   height: 6em;
   padding: 1.5em;
